@@ -1,6 +1,7 @@
 /*15. Escreva um programa que receba n > 0 números inteiros, armazene-os em um
 vetor e mostre como saída o maior e o menor elemento deste vetor. Seu
-programa deve conter uma função com o seguinte protótipo:*/
+programa deve conter uma função com o seguinte protótipo:
+        void min_max(int v[], int n, int *max, int *min)*/
 #include<stdio.h>
 #include<string.h>
 #define TAM 5

@@ -1,5 +1,6 @@
 /*16. Crie uma segunda função que encontrar o maior e o segundo maior elemento
-em um vetor. A função deve ter o seguinte protótipo:*/
+em um vetor. A função deve ter o seguinte protótipo:
+        void dois_maiores(int v[], int n, int *p_maior, int *s_maior);*/
 #include<stdio.h>
 #include<string.h>
 #define TAM 2
